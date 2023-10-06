@@ -3,7 +3,7 @@
     "configMode": "AUTO",
     "configExternalURL": "",
     "projectToken": "921d109076ad43969a86acc79f8d9e0a2167b2e8962f478dadf80fb4563ac6ce",
-    "baseBranches": []
+    "baseBranches": ["main","Feature"]
   },
   "scanSettingsSAST": {
     "enableScan": false,
