@@ -76,7 +76,7 @@
 		<avro.version>1.8.2</avro.version>
 		<com.fasterxml.jackson.version>2.9.8</com.fasterxml.jackson.version>
 		<conscrypt.version>2.1.0</conscrypt.version>
-		<grpc.version>1.37.0</grpc.version>
+		<grpc.version>1.53.0</grpc.version>
 		<httpcomponents.version>4.5.6</httpcomponents.version>
 		<maven-shade-plugin.version>3.2.1</maven-shade-plugin.version>
 		<oneingest.multipart.sdk.version>1.0.1</oneingest.multipart.sdk.version>
